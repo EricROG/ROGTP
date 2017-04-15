@@ -1,0 +1,11 @@
+name: ROGTP
+version: 1.0
+description: Teleport players in world Spawn to spawn
+author: Eric Bormann
+main: net.realmofgladiator.dev.ROGPluginTwo
+database: false
+
+commands:
+  none:
+    description: none
+    usage: none
